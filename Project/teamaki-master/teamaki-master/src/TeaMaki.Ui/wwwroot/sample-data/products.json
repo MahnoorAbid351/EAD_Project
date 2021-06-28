@@ -1,0 +1,19 @@
+[{
+	"ProductId": "ffc84058-37d9-43ea-95bf-ff577cfba03b",
+    "Name": "Bonanza Satrangi",
+    "Description" : "abcdssfsdhsj",
+    "ImagePath": "img/bonanza.jpg"
+},
+  {
+    "ProductId": "5951156f-9215-430e-8301-03a5ce3a61be",
+    "Name": "Nishat Linen",
+    "Description": "uioiiiiiiiii",
+    "ImagePath": "img/nishat_linen.jpg"
+  },
+  {
+    "ProductId": "5951156f-9265-430e-8301-03a5ce3a61be",
+    "Name": "Nishat Linen",
+    "Description": "uioiiiiiiiii",
+    "ImagePath": "img/nishat_linen.jpg" 
+  }
+]
